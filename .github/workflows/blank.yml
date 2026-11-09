@@ -17,7 +17,7 @@ on:
     types: [closed]
     paths:
       - ".github/workflows/publish-gist.yml"
-      - ".field-au-geo-feed.csv
+      - ".au-geo-feed.csv
 
 jobs:
   check_changed:
@@ -75,4 +75,4 @@ jobs:
           # Description of the gist
           gist_description: Public Keys
           # The Filename with the contents we want to mirror
-          github_file: ./field-au-geo-feed.csv
+          github_file: ./au-geo-feed.csv

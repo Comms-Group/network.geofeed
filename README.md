@@ -1,1 +1,1 @@
-FSG Geofeed# network.geofeed
+Geofeed# network.geofeed
